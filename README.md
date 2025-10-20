@@ -9,9 +9,9 @@ Frontend Developer from Russia 🇷🇺
 - 😎 &nbsp;I'm develop using **[Typescript](https://www.typescriptlang.org/)**
 - ☺️ &nbsp;Let's talk more in **[Telegram](https://t.me/V1Sdev)**
 
-<br>
-
 <h2 align="left" id="debabin-stack">⚙️ Tech stack</h2>
+
+<br>
 
 > General
 
